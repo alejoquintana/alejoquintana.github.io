@@ -17,7 +17,7 @@ function sumAmount(id,sum) {
                 {{ product.brand }}
             </span>
         </div>
-        <div class="col-5 name-cell">
+        <div class="col-6 name-cell">
             <span class="text-capitalize">
                 {{ product.name }}
             </span>
