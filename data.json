@@ -19,11 +19,11 @@
   {"id":0,"name":"casco","brand":"tuxs","cost":11500,"amount":0,"final":17500},
 {"id":2,"name":"kit protec","brand":"tuxs","cost":15000,"amount":0,"final":20000},
   {"id":19,"name":"maple","brand":"cdp","cost":0,"amount":0,"final":20000},
-  {"id":20,"name":"guatamba","brand":"cdp","cost":0,"amount":0,"final":14500},
-  {"id":21,"name":"guatamba dorada","brand":"cdp","cost":0,"amount":0,"final":15000},
-  {"id":22,"name":"ruedas","brand":"cdp","cost":0,"amount":0,"final":14000},
-  {"id":23,"name":"trucks metal","brand":"dater","cost":9936,"amount":0,"final":15500},
-  {"id":24,"name":"trucks color","brand":"dater","cost":12110,"amount":0,"final":16500},
+  {"id":20,"name":"guatamba","brand":"cdp","cost":12000,"amount":0,"final":14500},
+  {"id":21,"name":"guatamba dorada","brand":"cdp","cost":12500,"amount":0,"final":15000},
+  {"id":22,"name":"ruedas","brand":"cdp","cost":12000,"amount":0,"final":14000},
+  {"id":23,"name":"trucks metal","brand":"dater","cost":11300,"amount":0,"final":15500},
+  {"id":24,"name":"trucks color","brand":"dater","cost":13900,"amount":0,"final":16500},
   {"id":25,"name":"rules comunes","brand":"dater","cost":2858,"amount":0,"final":4000},
   {"id":26,"name":"rules pro","brand":"dater","cost":0,"amount":0,"final":0},
   {"id":27,"name":"tornillos","brand":"dater","cost":0,"amount":0,"final":600},
@@ -37,6 +37,6 @@
   {"id":35,"name":"vaso","brand":"a_chantar","cost":0,"amount":0,"final":0},
   {"id":36,"name":"barbijo","brand":"a_chantar","cost":0,"amount":0,"final":0},
   {"id":37,"name":"pin","brand":"","cost":0,"amount":0,"final":0},
-  {"id":38,"name":"guatamba","brand":"udine","cost":0,"amount":0,"final":14500}
+  {"id":38,"name":"guatamba","brand":"udine","cost":7000,"amount":0,"final":14500}
 ]
 }
