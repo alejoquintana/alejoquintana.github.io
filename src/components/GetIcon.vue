@@ -10,7 +10,7 @@ const props = defineProps({
     default: "md"
   },
 })
-const src = `/src/assets/icons/${props.icon}.svg`
+const src = `/icons/${props.icon}.svg`
 
 </script>
 <style lang="scss" scoped>
