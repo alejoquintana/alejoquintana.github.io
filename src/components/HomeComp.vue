@@ -11,7 +11,7 @@ function sumAmount(id,sum) {
 <template>
     <btnBalance></btnBalance>
     <div v-for="product in productStore().products" :key="product.id"
-        class="row my-1 p-1 list-item align-items-center g-0">
+        class="row my-1 p-1 list-item align-items-center" g-0 v-class="product.brand">
         <div class="col-2 text-center px-2">
             <span class="text-uppercase font-weight-bold">
                 {{ product.brand }}
@@ -38,9 +38,7 @@ function sumAmount(id,sum) {
 </template>
 
 <style lang="scss" scoped>
-.list-item {
-    background-color: azure;
-}
+
 .d-flex-cc {
   display: flex;
   justify-content: center;
