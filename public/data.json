@@ -3,7 +3,7 @@
         {"id":1,"name":"maple nacional","brand":"tuxs","cost":19000,"amount":0,"final":27000},
         {"id":3,"name":"maple pro","brand":"tuxs","cost":24000,"amount":0,"final":33000},
         {"id":4,"name":"guatamba","brand":"tuxs","cost":11500,"amount":0,"final":16500},
-        {"id":5,"name":"lija","brand":"tuxs","cost":2400,"amount":0,"final":4000},
+        {"id":5,"name":"lija","brand":"tuxs","cost":3400,"amount":0,"final":4000},
         {"id":6,"name":"trucks 149mm","brand":"tuxs","cost":26000,"amount":0,"final":33000},
         {"id":7,"name":"trucks 159mm","brand":"tuxs","cost":28000,"amount":0,"final":33000},
         {"id":9,"name":"Ruedas 53mm/102A","brand":"tuxs","cost":8500,"amount":0,"final":10700},
