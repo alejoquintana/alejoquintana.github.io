@@ -10,11 +10,17 @@
   font-weight: normal;
 }
 
-a,
-.green {
-  text-decoration: none;
-  color: hsla(160, 100%, 37%, 1);
-  transition: 0.4s;
+.tuxs {
+  background: #ff8
+}
+.dater {
+  background: #f8f
+}
+.cdp {
+  background: #8ff
+}
+.udine {
+  background: #888
 }
 
 @media (hover: hover) {
