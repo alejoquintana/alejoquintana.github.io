@@ -7,7 +7,7 @@
         {"id":6,"name":"trucks 149mm","brand":"tuxs","cost":26000,"amount":0,"final":33000},
         {"id":7,"name":"trucks 159mm","brand":"tuxs","cost":28000,"amount":0,"final":33000},
         {"id":9,"name":"Ruedas 53mm/102A","brand":"tuxs","cost":8500,"amount":0,"final":10700},
-        {"id":10,"name":"Ruedas 54mm/84B","brand":"tuxs","cost":1300,"amount":0,"final":14700},
+        {"id":10,"name":"Ruedas 54mm/84B","brand":"tuxs","cost":13000,"amount":0,"final":14700},
         {"id":11,"name":"Ruedas 54mm/102A","brand":"tuxs","cost":9500,"amount":0,"final":11200},
         {"id":12,"name":"Ruedas 56mm/84B","brand":"tuxs","cost":13500,"amount":0,"final":16700},
         {"id":13,"name":"Ruedas 56mm/102A","brand":"tuxs","cost":11000,"amount":0,"final":13700},
