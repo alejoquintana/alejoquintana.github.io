@@ -29,7 +29,7 @@
         {"id":27,"name":"tornillos","brand":"dater","cost":0,"amount":0,"final":600},
         {"id":28,"name":"tornillos lata","brand":"dater","cost":0,"amount":0,"final":2200},
         {"id":29,"name":"bujes","brand":"dater","cost":859,"amount":0,"final":0},
-        {"id":38,"name":"guatamba","brand":"udine","cost":7000,"amount":0,"final":14500}
+        {"id":38,"name":"guatamba","brand":"udine","cost":9000,"amount":0,"final":14500}
     ],
     "noproducts": [
         {"id":8,"name":"Ruedas 53mm/98A","brand":"tuxs","cost":0,"amount":0,"final":10700},
