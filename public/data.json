@@ -28,7 +28,9 @@
         {"id":26,"name":"rules pro","brand":"dater","cost":0,"amount":0,"final":0},
         {"id":27,"name":"tornillos","brand":"dater","cost":0,"amount":0,"final":600},
         {"id":28,"name":"tornillos lata","brand":"dater","cost":0,"amount":0,"final":2200},
-        {"id":38,"name":"guatamba","brand":"udine","cost":9000,"amount":0,"final":14500}
+        {"id":38,"name":"guatamba","brand":"udine","cost":9000,"amount":0,"final":14500},
+        {"id":38,"name":"sticker","brand":"mara","cost":1,"amount":0,"final":200},
+        {"id":38,"name":"sticker x3","brand":"mara","cost":3,"amount":0,"final":500}
     ],
     "noproducts": [
         {"id":29,"name":"bujes","brand":"dater","cost":859,"amount":0,"final":0},
