@@ -1,0 +1,68 @@
+{
+    "products": [
+        {"id":23,"name":"Casco Talle S","brand":"tuxs","amount":0,"color":"#F88"},
+        {"id":24,"name":"Casco Talle M","brand":"tuxs","amount":0,"color":"#F88"},
+        {"id":25,"name":"Casco Talle L","brand":"tuxs","amount":0,"color":"#F88"},
+
+        {"id":26,"name":"Kit Protes Talle S","brand":"tuxs","amount":0,"color":"#88F"},
+        {"id":27,"name":"Kit Protes Talle M","brand":"tuxs","amount":0,"color":"#88F"},
+        {"id":28,"name":"Kit Protes Talle L","brand":"tuxs","amount":0,"color":"#88F"},
+
+        {"id":1,"name":"Maple Nacio 8","brand":"tuxs","amount":0,"color":"#F88"},
+        {"id":2,"name":"Maple Nacio 8.25","brand":"tuxs","amount":0,"color":"#F88"},
+        {"id":3,"name":"Maple Nacio 8.5","brand":"tuxs","amount":0,"color":"#F88"},
+
+        {"id":4,"name":"Maple Pro 8","brand":"tuxs","amount":0,"color":"#88F"},
+        {"id":5,"name":"Maple Pro 8.25","brand":"tuxs","amount":0,"color":"#88F"},
+        {"id":6,"name":"Maple Pro 8.5","brand":"tuxs","amount":0,"color":"#88F"},
+
+        {"id":7,"name":"Guata 8","brand":"tuxs","amount":0,"color":"#F88"},
+        {"id":8,"name":"Guata 8.25","brand":"tuxs","amount":0,"color":"#F88"},
+        {"id":9,"name":"Guata 8.5","brand":"tuxs","amount":0,"color":"#F88"},
+
+        {"id":10,"name":"Lija","brand":"tuxs","amount":0,"color":"#88F"},
+
+        {"id":11,"name":"Trucks 149mm","brand":"tuxs","amount":0,"color":"#F88"},
+        {"id":12,"name":"Trucks 159mm","brand":"tuxs","amount":0,"color":"#F88"},
+
+        {"id":13,"name":"Ruedas 53mm/102A","brand":"tuxs","amount":0,"color":"#88F"},
+        {"id":14,"name":"Ruedas 54mm/84B","brand":"tuxs","amount":0,"color":"#88F"},
+        {"id":15,"name":"Ruedas 54mm/102A","brand":"tuxs","amount":0,"color":"#88F"},
+        {"id":16,"name":"Ruedas 56mm/84B","brand":"tuxs","amount":0,"color":"#88F"},
+        {"id":17,"name":"Ruedas 56mm/102A","brand":"tuxs","amount":0,"color":"#88F"},
+
+        {"id":18,"name":"Llave t","brand":"tuxs","amount":0,"color":"#F88"},
+        {"id":19,"name":"Llave t pro","brand":"tuxs","amount":0,"color":"#F88"},
+
+        {"id":20,"name":"Rules abec 7 (tubo)","brand":"tuxs","amount":0,"color":"#88F"},
+        {"id":21,"name":"Rules abec 7 (lata)","brand":"tuxs","amount":0,"color":"#88F"},
+        {"id":22,"name":"Rules abec 9","brand":"tuxs","amount":0,"color":"#88F"},
+
+        {"id":29,"name":"Maple 8","brand":"cdp","amount":0,"color":"#FF8"},
+        {"id":30,"name":"Maple 8.25","brand":"cdp","amount":0,"color":"#FF8"},
+        {"id":31,"name":"Maple 8.5","brand":"cdp","amount":0,"color":"#FF8"},
+
+        {"id":32,"name":"Guata 8","brand":"cdp","amount":0,"color":"#8FF"},
+        {"id":33,"name":"Guata 8.25","brand":"cdp","amount":0,"color":"#8FF"},
+        {"id":34,"name":"Guata 8.5","brand":"cdp","amount":0,"color":"#8FF"},
+
+        {"id":35,"name":"Guata Dorada","brand":"cdp","amount":0,"color":"#FF8"},
+
+        {"id":36,"name":"Ruedas","brand":"cdp","amount":0,"color":"#8FF"},
+
+        {"id":37,"name":"Trucks Metal 139","brand":"dater","amount":0,"color":"#F88"},
+        {"id":38,"name":"Trucks Metal 149","brand":"dater","amount":0,"color":"#F88"},
+        {"id":39,"name":"Trucks Color 139","brand":"dater","amount":0,"color":"#F88"},
+        {"id":40,"name":"Trucks Color 149","brand":"dater","amount":0,"color":"#F88"},
+
+        {"id":41,"name":"Rules Comunes","brand":"dater","amount":0,"color":"#88F"},
+
+        {"id":42,"name":"Tornillos","brand":"dater","amount":0,"color":"#F88"},
+        {"id":43,"name":"Tornillos lata","brand":"dater","amount":0,"color":"#F88"},
+
+        {"id":44,"name":"Guata 8","brand":"udine","amount":0,"color":"#FF8"},
+        {"id":45,"name":"Guata 8.25","brand":"udine","amount":0,"color":"#FF8"},
+        {"id":46,"name":"Guata 8.5","brand":"udine","amount":0,"color":"#FF8"}
+        
+    ]
+}

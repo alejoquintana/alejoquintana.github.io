@@ -1,5 +1,6 @@
 <script setup>
 import Home from './components/HomeComp.vue'
+import GenerateOrders from './components/GenerateOrders.vue'
 </script>
 
 <template>
@@ -8,6 +9,7 @@ import Home from './components/HomeComp.vue'
 
   <main>
     <Home />
+    <GenerateOrders />
   </main>
 </template>
 

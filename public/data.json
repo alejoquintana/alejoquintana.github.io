@@ -27,13 +27,13 @@
         {"id":25,"name":"rules comunes","brand":"dater","cost":5726,"amount":0,"final":7800},
         {"id":27,"name":"tornillos","brand":"dater","cost":1009,"amount":0,"final":1500},
         {"id":28,"name":"tornillos lata","brand":"dater","cost":2282,"amount":0,"final":3100},
-        {"id":38,"name":"guatamba","brand":"udine","cost":21000,"amount":0,"final":24500},
+        {"id":38,"name":"guatamba","brand":"udine","cost":21000,"amount":0,"final":24500}
         
     ],
     "noproducts": [
         {"id":39,"name":"sticker","brand":"mara","cost":200,"amount":0,"final":200},
         {"id":40,"name":"sticker x3","brand":"mara","cost":500,"amount":0,"final":500},
-        {"id":41,"name":"sticker 2M1A","brand":"mara","cost":300,"amount":0,"final":300}
+        {"id":41,"name":"sticker 2M1A","brand":"mara","cost":300,"amount":0,"final":300},
         {"id":26,"name":"rules pro","brand":"dater","cost":0,"amount":0,"final":0},
         {"id":29,"name":"bujes","brand":"dater","cost":859,"amount":0,"final":0},
         {"id":8,"name":"Ruedas 53mm/98A","brand":"tuxs","cost":0,"amount":0,"final":10700},
