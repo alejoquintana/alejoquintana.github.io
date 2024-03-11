@@ -35,6 +35,7 @@ export const orderStore = defineStore('order', () => {
         //! BREAK LINE => %0A
         //! SPACE => %20
         for (const [key, value] of Object.entries(balance.value)) {
+            console.log(value);
             URL = URL + `${key.toUpperCase()}%0A`
             value.forEach(item => {
                 URL = URL + `${item}%0A`
